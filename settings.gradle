@@ -1,0 +1,3 @@
+rootProject.name = 'kstation'
+include 'KStationClient', 'KStationApi', 'KStationServer', 'KStationShared', 'KStationBaseContent'
+
